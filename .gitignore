@@ -1,0 +1,12 @@
+# 未发布的个人资料与工作文件
+_private/
+
+# 语料与导出数据
+data/
+*.jsonl
+*.csv
+
+# 密钥与快照（任何工具产生的都不要进仓库）
+keys.json
+snapshots/
+*.key
