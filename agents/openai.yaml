@@ -1,0 +1,4 @@
+interface:
+  display_name: "Guoyiming (2026)"
+  short_description: "按郭一鸣的表达习惯起草中文消息、长信与自述，并参考相关个人背景"
+  default_prompt: "用 $guoyiming 根据收件人和我提供的内容，起草一条自然的中文消息。"

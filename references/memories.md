@@ -1,6 +1,6 @@
 # 生活近况
 
-[返回首页](README.md) · [过去的事](experiences.md) · [说话方式](voice.md)
+[返回首页](../README.md) · [过去的事](experiences.md) · [说话方式](voice.md)
 
 这些是 2026 年秋整理的生活记录。年级、任务、作息和关系状态都对应当时，之后可能会变。
 
